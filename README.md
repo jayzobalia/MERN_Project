@@ -4,17 +4,17 @@ This Repository contains the code to the Privistays Hotel Booking site. This was
 
 # Visualizations
 
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Hone.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/login.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Main.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/date_selection.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/people.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Footer.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/stays.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/taj.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/pics.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/reserve.png)
-![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/view.png)
+![Home](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Hone.png)
+![Login](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/login.png)
+![Main](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Main.png)
+![Date](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/date_selection.png)
+![Guests](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/people.png)
+![Footer](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Footer.png)
+![Stays](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/stays.png)
+![Hotel](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/taj.png)
+![Taj](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/pics.png)
+![Reserve](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/reserve.png)
+![view](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/view.png)
 
 # Contributors
 

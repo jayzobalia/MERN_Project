@@ -1,6 +1,6 @@
 # MERN: Privistays Hotel Booking Site
 
-This Repository contains the code to the Privistays Hotel Booking site. This was done for the course work of MERN. It I've attached all the screenshots below regarding the visualization .
+This Repository contains the code to the Privistays Hotel Booking site. This was done for the course work of MERN. I've attached all the screenshots below regarding the visualization.
 
 # Visualizations
 

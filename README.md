@@ -14,7 +14,7 @@ This Repository contains the code to the Privistays Hotel Booking site. This was
 ![Hotel](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/taj.png)
 ![Taj](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/pics.png)
 ![Reserve](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/reserve.png)
-![view](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/view.png)
+![View](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/view.png)
 
 # Contributors
 

@@ -25,4 +25,4 @@ This Repository contains the code to the Privistays Hotel Booking site. This was
 
 # Acknowledgement
 
-We would like to thanks Prof. Deepa Jain for the guidance and support throughout the coursework.
+We would like to thank Prof. Deepa Jain for the guidance and support throughout the coursework.

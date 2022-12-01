@@ -4,13 +4,8 @@ This Repository contains the code to the Privistays Hotel Booking site. This was
 
 # Visualizations
 
-- Home Page
 ![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Hone.png)
-
-- User Login
 ![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/login.png)
-
-- Logged in account main page
 ![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Main.png)
 ![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/date_selection.png)
 ![alt text](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/people.png)

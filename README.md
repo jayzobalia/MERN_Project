@@ -2,7 +2,7 @@
 
 This Repository contains the code to the Privistays Hotel Booking site. This was done for the course work of MERN. I've attached all the screenshots below regarding the visualization.
 
-# Visualizations
+## Visualizations
 
 ![Home](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/Hone.png)
 ![Login](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/login.png)
@@ -16,13 +16,13 @@ This Repository contains the code to the Privistays Hotel Booking site. This was
 ![Reserve](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/reserve.png)
 ![View](https://github.com/jayzobalia/MERN_Project/blob/main/pictures/view.png)
 
-# Contributors
+## Contributors
 
 (KJ Somaiya College of Engineering)
 - Aanchal Thaman
 - Jay Zobalia
 - Dwayne Vaz
 
-# Acknowledgement
+## Acknowledgement
 
 We would like to thank Prof. Deepa Jain for the guidance and support throughout the coursework.
